@@ -1,0 +1,5 @@
+Project Management
+taiga.io ---> Agile project management + wiki
+
+Video Editing
+Monosnap ---> Record Screen and iSight Camera at the same time
